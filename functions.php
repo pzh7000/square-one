@@ -81,7 +81,7 @@ function html5blank_nav()
 		'after'           => '',
 		'link_before'     => '',
 		'link_after'      => '',
-		'items_wrap'      => '<ul>%3$s</ul>',
+		'items_wrap'      => '<ul class="container">%3$s</ul>',
 		'depth'           => 0,
 		'walker'          => ''
 		)
